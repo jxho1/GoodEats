@@ -25,7 +25,7 @@ An interactive web application that helps users explore and discover cuisines fr
 
 ## 🚀 Live Demo
 
-The application is deployed at: [Good Eats](https://jxhoez.github.io/GoodEats/)
+The application is deployed at: [Good Eats](https://jxho1.github.io/GoodEats/)
 
 ## 🛠️ Technologies Used
 
@@ -118,7 +118,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-- **Johny Ho** - *Initial work* - [GitHub Profile](https://github.com/jxhoez)
+- **Johny Ho** - *Initial work* - [GitHub Profile](https://github.com/jxho1)
 
 ## 🙏 Acknowledgments
 
